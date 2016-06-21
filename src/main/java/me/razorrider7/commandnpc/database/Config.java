@@ -1,6 +1,6 @@
 package me.razorrider7.commandnpc.database;
 
-import org.Bukkit.ChatColor;
+import org.bukkit.ChatColor;
 import org.bukkit.Bukkit;
 
 import me.razorrider7.commandnpc.CommandNPC;
